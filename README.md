@@ -49,7 +49,7 @@ flowchart LR
 The renderer uses red for the self-driving car (SDC), blue for neighboring
 agents, gray for map polylines, and a red-to-blue trail for recent SDC motion.
 
-![Representative BEV samples](samples_grid_12.png)
+![Representative BEV samples](samples/samples_grid_12.png)
 
 *Representative consecutive samples. Titles show the lateral and longitudinal
 labels assigned by the temporal heuristics.*
