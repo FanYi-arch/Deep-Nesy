@@ -258,8 +258,7 @@ Accordingly, a public source-code release should contain:
 - a small number of illustrative PNG samples; and
 - instructions for licensed users to regenerate the full tensors locally.
 
-Do not add `train_sample/*.tfrecord-*`, `processed_data/images.pt`,
-`processed_data/images.npy`, or the full label tensors to a public repository.
+
 
 ## Citation
 
